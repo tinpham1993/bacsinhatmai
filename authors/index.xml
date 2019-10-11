@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Bác sĩ Nhật Mai</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 11 Oct 2019 00:08:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Bác sĩ Nhật Mai (Trà Thị Nhật Mai) là bác sĩ chuyên khoa Da liễu, tốt nghiệp tại Đại học Y Dược thành phố Hồ Chí Minh. Bác sĩ hiện đang làm việc tại XXX và đang theo học khóa học thực hành 18 tháng tại Bệnh viện Da liễu Thành phố Hồ Chí Minh. Với niềm đam mê cùng kiến thức về làm đẹp, Bác sĩ Nhật Mai sẽ đem đến cho bạn những lời khuyên cũng như phương pháp hiệu quả nhất để chăm sóc sức khỏe, đặc biệt là làn da nhạy cảm của bạn.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

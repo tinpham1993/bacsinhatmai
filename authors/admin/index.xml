@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bác sĩ Nhật Mai</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bác sĩ Nhật Mai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bác sĩ Nhật Mai</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>5 bước rửa mặt sạch</title>
+      <link>/post/5-buoc-rua-mat/</link>
+      <pubDate>Fri, 11 Oct 2019 00:08:00 +0000</pubDate>
+      <guid>/post/5-buoc-rua-mat/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mọi người hãy cùng rửa mặt theo các bước sau nhé:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Rửa mặt và tay với nước sạch.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bước 2:&lt;/strong&gt; Cho sữa rửa mặt ra ngón tay, lượng khoảng bằng 1 hạt đậu đỏ.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bước 3:&lt;/strong&gt; Xoa đều 2 tay để tạo bọt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bước 4:&lt;/strong&gt; Xoa bọt của sữa rửa mặt lên mặt (khắp mặt).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bước 5:&lt;/strong&gt; Rửa mặt và tay lại bằng nước sạch.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lạc lối ở Phnôm Pênh</title>
+      <link>/post/phnom-penh-trip/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/phnom-penh-trip/</guid>
+      <description>
+
+&lt;h1 id=&#34;lạc-lối-ở-phnôm-pênh&#34;&gt;Lạc lối ở Phnôm Pênh&lt;/h1&gt;
+
+&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Phnôm Pênh&lt;/strong&gt; là thủ đô của nước láng giềng Campuchia - còn gọi là &lt;strong&gt;Nam Vang&lt;/strong&gt; hoặc &lt;strong&gt;Kim Biên&lt;/strong&gt; (phiên âm từ người Hoa dùng).&lt;/p&gt;
+
+&lt;h2 id=&#34;trải-nghiệm&#34;&gt;Trải nghiệm&lt;/h2&gt;
+
+&lt;p&gt;Đến đây bạn sẽ có những trải nghiệm về nền văn hóa Khmer đặc trưng, xe &lt;strong&gt;Tuk Tuk&lt;/strong&gt;, cuộc sống nhộn nhịp ở các khu chợ cũng như tiếp xúc với những con người thân thiện mến khách.&lt;/p&gt;
+
+&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;
+
+&lt;p&gt;Hãy thử một lần khám phá nơi này nhé!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
