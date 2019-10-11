@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Bác sĩ Nhật Mai</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tinpham1993.github.io/bacsinhatmai/post/</link>
+      <atom:link href="https://tinpham1993.github.io/bacsinhatmai/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tinpham1993.github.io/bacsinhatmai/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://tinpham1993.github.io/bacsinhatmai/post/</link>
     </image>
     
     <item>
       <title>5 bước rửa mặt sạch</title>
-      <link>/post/5-buoc-rua-mat/</link>
+      <link>https://tinpham1993.github.io/bacsinhatmai/post/5-buoc-rua-mat/</link>
       <pubDate>Fri, 11 Oct 2019 00:08:00 +0000</pubDate>
-      <guid>/post/5-buoc-rua-mat/</guid>
+      <guid>https://tinpham1993.github.io/bacsinhatmai/post/5-buoc-rua-mat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Mọi người hãy cùng rửa mặt theo các bước sau nhé:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bước 1:&lt;/strong&gt; Rửa mặt và tay với nước sạch.&lt;/p&gt;
@@ -33,9 +33,9 @@
     
     <item>
       <title>Lạc lối ở Phnôm Pênh</title>
-      <link>/post/phnom-penh-trip/</link>
+      <link>https://tinpham1993.github.io/bacsinhatmai/post/phnom-penh-trip/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/phnom-penh-trip/</guid>
+      <guid>https://tinpham1993.github.io/bacsinhatmai/post/phnom-penh-trip/</guid>
       <description>
 
 &lt;h1 id=&#34;lạc-lối-ở-phnôm-pênh&#34;&gt;Lạc lối ở Phnôm Pênh&lt;/h1&gt;

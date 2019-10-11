@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Bác sĩ Nhật Mai</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tinpham1993.github.io/bacsinhatmai/categories/</link>
+      <atom:link href="https://tinpham1993.github.io/bacsinhatmai/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tinpham1993.github.io/bacsinhatmai/img/icon-192.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://tinpham1993.github.io/bacsinhatmai/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>/categories/demo/</link>
+      <link>https://tinpham1993.github.io/bacsinhatmai/categories/demo/</link>
       <pubDate>Fri, 11 Oct 2019 00:08:00 +0000</pubDate>
-      <guid>/categories/demo/</guid>
+      <guid>https://tinpham1993.github.io/bacsinhatmai/categories/demo/</guid>
       <description></description>
     </item>
     
