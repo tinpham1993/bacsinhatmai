@@ -3,172 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aikido-bk.com/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/</loc>
+    <loc>https://bacsinhatmai.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/talk/example/</loc>
+    <loc>https://bacsinhatmai.com/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/talk/</loc>
+    <loc>https://bacsinhatmai.com/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/authors/admin/</loc>
+    <loc>https://bacsinhatmai.com/authors/admin/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/post/5-buoc-rua-mat/</loc>
+    <loc>https://bacsinhatmai.com/post/5-buoc-rua-mat/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/authors/</loc>
+    <loc>https://bacsinhatmai.com/authors/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/categories/</loc>
+    <loc>https://bacsinhatmai.com/categories/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/tags/cham-soc-suc-khoe/</loc>
+    <loc>https://bacsinhatmai.com/tags/cham-soc-suc-khoe/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/categories/demo/</loc>
+    <loc>https://bacsinhatmai.com/categories/demo/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/post/</loc>
+    <loc>https://bacsinhatmai.com/post/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/tags/</loc>
+    <loc>https://bacsinhatmai.com/tags/</loc>
     <lastmod>2019-10-11T00:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/tags/du-lich-%C4%91oi-song/</loc>
+    <loc>https://bacsinhatmai.com/tags/du-lich-%C4%91oi-song/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/post/phnom-penh-trip/</loc>
+    <loc>https://bacsinhatmai.com/post/phnom-penh-trip/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/slides/</loc>
+    <loc>https://bacsinhatmai.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/slides/example/</loc>
+    <loc>https://bacsinhatmai.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aikido-bk.com/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aikido-bk.com/courses/</loc>
+    <loc>https://bacsinhatmai.com/publication_types/</loc>
   </url>
   
 </urlset>

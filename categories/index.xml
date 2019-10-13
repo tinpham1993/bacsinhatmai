@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Bác sĩ Nhật Mai</title>
-    <link>https://aikido-bk.com/categories/</link>
-      <atom:link href="https://aikido-bk.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bacsinhatmai.com/categories/</link>
+      <atom:link href="https://bacsinhatmai.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>vi</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
     <image>
-      <url>https://aikido-bk.com/img/icon-192.png</url>
+      <url>https://bacsinhatmai.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://aikido-bk.com/categories/</link>
+      <link>https://bacsinhatmai.com/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://aikido-bk.com/categories/demo/</link>
+      <link>https://bacsinhatmai.com/categories/demo/</link>
       <pubDate>Fri, 11 Oct 2019 00:08:00 +0000</pubDate>
-      <guid>https://aikido-bk.com/categories/demo/</guid>
+      <guid>https://bacsinhatmai.com/categories/demo/</guid>
       <description></description>
     </item>
     

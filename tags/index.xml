@@ -2,53 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Bác sĩ Nhật Mai</title>
-    <link>https://aikido-bk.com/tags/</link>
-      <atom:link href="https://aikido-bk.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bacsinhatmai.com/tags/</link>
+      <atom:link href="https://bacsinhatmai.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>vi</language><lastBuildDate>Fri, 11 Oct 2019 00:08:00 +0000</lastBuildDate>
     <image>
-      <url>https://aikido-bk.com/img/icon-192.png</url>
+      <url>https://bacsinhatmai.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://aikido-bk.com/tags/</link>
+      <link>https://bacsinhatmai.com/tags/</link>
     </image>
     
     <item>
       <title>Chăm sóc sức khỏe</title>
-      <link>https://aikido-bk.com/tags/cham-soc-suc-khoe/</link>
+      <link>https://bacsinhatmai.com/tags/cham-soc-suc-khoe/</link>
       <pubDate>Fri, 11 Oct 2019 00:08:00 +0000</pubDate>
-      <guid>https://aikido-bk.com/tags/cham-soc-suc-khoe/</guid>
+      <guid>https://bacsinhatmai.com/tags/cham-soc-suc-khoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Du lịch &amp; Đời sống</title>
-      <link>https://aikido-bk.com/tags/du-lich-%C4%91oi-song/</link>
+      <link>https://bacsinhatmai.com/tags/du-lich-%C4%91oi-song/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://aikido-bk.com/tags/du-lich-%C4%91oi-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>https://aikido-bk.com/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://aikido-bk.com/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://aikido-bk.com/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://aikido-bk.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://aikido-bk.com/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://aikido-bk.com/tags/demo/</guid>
+      <guid>https://bacsinhatmai.com/tags/du-lich-%C4%91oi-song/</guid>
       <description></description>
     </item>
     
