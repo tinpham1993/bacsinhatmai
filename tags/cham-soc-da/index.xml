@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bác sĩ Nhật Mai</title>
-    <link>https://bacsinhatmai.com/</link>
-      <atom:link href="https://bacsinhatmai.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bác sĩ Nhật Mai</description>
+    <title>Chăm sóc da | Bác sĩ Nhật Mai</title>
+    <link>https://bacsinhatmai.com/tags/cham-soc-da/</link>
+      <atom:link href="https://bacsinhatmai.com/tags/cham-soc-da/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chăm sóc da</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>vi</language><lastBuildDate>Wed, 30 Oct 2019 00:08:00 +0000</lastBuildDate>
     <image>
       <url>https://bacsinhatmai.com/img/icon-192.png</url>
-      <title>Bác sĩ Nhật Mai</title>
-      <link>https://bacsinhatmai.com/</link>
+      <title>Chăm sóc da</title>
+      <link>https://bacsinhatmai.com/tags/cham-soc-da/</link>
     </image>
     
     <item>
